@@ -29,5 +29,3 @@ TARGET_SUPPORTS_GOOGLE_RECORDER := true
 
 # Havoc Specific props
 HAVOC_BUILD_TYPE := Official
-HAVOC_MAINTAINER := Sairam Majgaonkar (Sairam60)
-HAVOC_GROUP_URL := https://t.me/havoc_miatollofficial
